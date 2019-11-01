@@ -1,0 +1,32 @@
+HTTrack3.48-21 launched on Thu, 31 Oct 2019 21:49:41 at https://www.cosapiinmobiliaria.com.pe/?gclid=Cj0KCQjwjOrtBRCcARIsAEq4rW6iTRpS3I_D5hyemMiAEuds-ebflylMbBro1BZOMReuWKgj5IyckzUaAlDhEALw_wcB +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.cosapiinmobiliaria.com.pe/?gclid=Cj0KCQjwjOrtBRCcARIsAEq4rW6iTRpS3I_D5hyemMiAEuds-ebflylMbBro1BZOMReuWKgj5IyckzUaAlDhEALw_wcB -O "/home/slim/websites/Cosapi" -%P -N0 -s2 -p2 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:51:02	Error: 	"Not Found" (404) at link https://www.cosapiinmobiliaria.com.pe/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamLight.fe6eb31a.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamLight-Italic.33f1961c.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamBook.efe056a0.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Gotham-BookItalic.8095e4f9.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamMedium.d6ea32b2.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamMedium-Italic.b53a737c.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamBold.bea02617.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamBold-Italic.cb1f6e86.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamBlack.9d659efd.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/GothamBlack-Italic.b081489a.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-Regular.364c3b8e.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-Italic.f327711c.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-Light.e240950a.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-LightItalic.4685dce5.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-Medium.3dae50ed.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-MediumItalic.53ab354b.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-Bold.fac1e737.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-BoldItalic.ac9f3a31.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-Black.fd2dedd4.woff2
+21:51:02	Warning: 	File not parsed, looks like binary: https://www.cosapiinmobiliaria.com.pe/build/fonts/Montserrat-BlackItalic.ba006559.woff2
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 21 seconds : 229 links scanned, 227 files written (42840306 bytes overall) [40895342 bytes received at 504880 bytes/sec], 27702456 bytes transferred using HTTP compression in 205 files, ratio 92%, 14.3 requests per connection
+(1 errors, 20 warnings, 0 messages)
